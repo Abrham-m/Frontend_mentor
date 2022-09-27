@@ -1,0 +1,7 @@
+body{
+    background-color: #bde0fe;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    height: 100vh;  
+}
